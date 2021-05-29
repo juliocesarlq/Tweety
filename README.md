@@ -1,6 +1,6 @@
 # *Tweety*
 
-**Tweety* is a basic twitter app to read your tweets.
+**Tweety** is a basic twitter app to read your tweets.
 
 Time spent: **4** hours spent in total
 
