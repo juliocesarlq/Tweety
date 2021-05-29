@@ -1,4 +1,4 @@
-# Project 3 - *Tweety*
+# *Tweety*
 
 **Tweety* is a basic twitter app to read your tweets.
 
